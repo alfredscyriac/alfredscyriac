@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alfred 👋
 
 
 - 🏫 I’m currently an undergraduate student at CUNY - Queens College
