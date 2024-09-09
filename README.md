@@ -1,8 +1,7 @@
 ### Hi, I'm Alfred 👋
 
 # 💫 About Me:
-🏫 I’m currently an undergraduate computer science student at CUNY - Queens College<br>🎓 I’m expected to graduate in December 2026<br>🗽 I'm based in the New York City Metropolitan Area<br>💭 I aspire to be a Software Engineer <br>📫 Reach me on LinkedIn to chat: https://www.linkedin.com/in/alfredsiby-cyriac/
-
+🏫 I’m currently an undergraduate computer science student at CUNY - Queens College<br>🎓 I’m expected to graduate in December 2026<br>🗽 I'm based in the New York City Metropolitan Area<br>💭 I aspire to be a Software Engineer <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredsiby-cyriac/) 
