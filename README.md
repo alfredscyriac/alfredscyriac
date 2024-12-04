@@ -1,6 +1,6 @@
 ### Hi, I'm Alfred 👋
 
-# 💫 About Me:
+# About Me:
 🏫 I’m currently an undergraduate computer science student at CUNY - Queens College<br>🎓 I’m expected to graduate in December 2026<br>🗽 I'm based in the New York City Metropolitan Area<br>💭 Currently learning Dart and Flutter to build cross platform Mobile Applications <br>
 
 ## 🌐 Socials:
