@@ -1,4 +1,4 @@
-### Hi, I'm Alfred 👋
+## Hi, I'm Alfred 👋
 
 # About Me:
 🏫 Undergraduate computer science student at the City Univeristy of New York - Queens College<br>🎓 Expected Graduation: December 2026<br>🗽 Located in the New York City Metropolitan Area<br>💭 Currently learning React and React Native <br>
