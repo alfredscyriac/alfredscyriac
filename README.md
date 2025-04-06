@@ -1,7 +1,7 @@
 # Hi, I'm Alfred 👋
 
 ## About Me:
-🏫 Undergraduate computer science student at the City Univeristy of New York - Queens College<br>🎓 Expected Graduation: December 2026<br>🗽 Located in the New York City Metropolitan Area<br>💭 Currently learning React and React Native <br>
+🏫 Undergraduate computer science student at the City Univeristy of New York - Queens College<br>🎓 Expected Graduation: May 2027<br>🗽 Located in the New York City Metropolitan Area<br>💭 Currently learning React and React Native <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredsiby-cyriac/) 
