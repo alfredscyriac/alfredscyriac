@@ -1,9 +1,8 @@
 # 💫 About Me:
-CS @ CUNY Queens College '27 <br/>
-Software Engineer Intern @ NYC DOE <br/>
-Previously @ Tech Incubator at Queens College, GoWavey <br/> 
-Located in New York City <br/> 
-Seeking internship opportunities for summer 2026 <br/> 
+🏫 CS @ CUNY Queens College '27 <br/>
+👨🏽‍💻 Software Engineer Intern @ NYC DOE | Previously @ Tech Incubator at Queens College, GoWavey <br/> 
+🗽 Located in New York City <br/> 
+👀 Seeking internship opportunities for summer 2026 ☀️ <br/> 
 
 
 ## 🌐 Socials:
