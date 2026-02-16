@@ -1,9 +1,7 @@
 # 💫 About Me:
 🏫 CS @ CUNY Queens College '27 <br/>
-👨🏽‍💻 Software Engineer Intern @ NYC DOE | Previously @ Tech Incubator at Queens College, GoWavey <br/> 
+👨🏽‍💻 Incoming Software Engineer Intern @ Dow Jones <br/> 
 🗽 Located in New York City <br/> 
-👀 Seeking internship opportunities for summer 2026 <br/> 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredsiby-cyriac/) 
