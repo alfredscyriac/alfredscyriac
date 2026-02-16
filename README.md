@@ -3,7 +3,7 @@
 👨🏽‍💻 Incoming Software Engineer Intern @ Dow Jones <br/> 
 🗽 Located in New York City <br/> 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredsiby-cyriac/) 
 
 # 💻 Technical Toolkit:
