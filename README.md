@@ -38,9 +38,9 @@ I'm a computer science major at CUNY Queens College as part of the NSF S-STEM Sc
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-**AI Workspaces & Models**
+**AI Models**
 
-![Google AI Studio + Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Tools & Platforms**
 
